@@ -24,6 +24,7 @@ Feature: Produto
     Then o valor em estoque atual deve ser de "100.0"
 
 
+
   @excluir
   Scenario: Excluir um produto Cadastrado
     When que clico no botao "DELETE"
