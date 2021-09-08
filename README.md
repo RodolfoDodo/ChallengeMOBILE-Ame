@@ -11,6 +11,11 @@ Este projeto está sendo executado com o appium e preciso insformar no arquivo c
 
 app: '/Users/rodolfolacerda/ProjetoGIT/ChallengeMobile/APK/product_registration.apk'
 
+Ainda no arquivo codecept.config.js informe o seu emulador na linha 
+
+udid: 'emulator-5554'
+
+
 Informo o caminho certo da sua maquina
 
 Instalar dependencias
