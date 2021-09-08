@@ -21,7 +21,7 @@ exports.config = {
   hooks: [],
   gherkin: {
     features: './features/*.feature',
-    cadastro_produto_page_steps: ['./step_definitions/cadastro_produto_page_steps.js']
+    steps: ['./step_definitions/cadastro_produto_steps.js']
   },
   plugins: {
     screenshotOnFail: {
